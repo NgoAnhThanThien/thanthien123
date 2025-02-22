@@ -18,8 +18,8 @@
             <mxPoint x="400" y="420" as="sourcePoint" />
             <mxPoint x="340" y="400" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="100" y="280" />
-              <mxPoint x="320" y="280" />
+              <mxPoint x="100" y="240" />
+              <mxPoint x="320" y="240" />
               <mxPoint x="320" y="400" />
             </Array>
           </mxGeometry>
@@ -74,15 +74,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DFrZbY_4Bm73K4eVYEuO-15" value="Guest" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DFrZbY_4Bm73K4eVYEuO-16" value="Thống kê" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.6;exitY=1.042;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.017;entryY=0.307;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DFrZbY_4Bm73K4eVYEuO-4" target="DFrZbY_4Bm73K4eVYEuO-1">
+        <mxCell id="DFrZbY_4Bm73K4eVYEuO-16" value="Thống kê" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.017;entryY=0.307;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="DFrZbY_4Bm73K4eVYEuO-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="320" as="sourcePoint" />
+            <mxPoint x="112" y="100" as="sourcePoint" />
             <mxPoint x="400" y="350" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="112" y="260" />
-              <mxPoint x="343" y="260" />
+              <mxPoint x="112" y="220" />
+              <mxPoint x="343" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
