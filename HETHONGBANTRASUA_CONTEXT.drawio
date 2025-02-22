@@ -25,7 +25,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DFrZbY_4Bm73K4eVYEuO-6" value="Nhân viên" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DFrZbY_4Bm73K4eVYEuO-7" value="Quản lý" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="110" width="120" height="60" as="geometry" />
@@ -176,6 +176,28 @@
               <mxPoint x="190" y="420" />
               <mxPoint x="30" y="420" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DFrZbY_4Bm73K4eVYEuO-28" value="Nhận đơn,chuẩn bị sản phẩm" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.126;entryY=1.027;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.319;exitY=0.048;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DFrZbY_4Bm73K4eVYEuO-1" target="DFrZbY_4Bm73K4eVYEuO-6">
+          <mxGeometry x="0.3725" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="400" as="sourcePoint" />
+            <mxPoint x="340" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="140" />
+              <mxPoint x="225" y="140" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DFrZbY_4Bm73K4eVYEuO-29" value="Cập nhật trạng thái đơn hàng" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.534;exitY=-0.01;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DFrZbY_4Bm73K4eVYEuO-1" target="DFrZbY_4Bm73K4eVYEuO-6">
+          <mxGeometry x="0.5226" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="340" as="sourcePoint" />
+            <mxPoint x="340" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="120" />
+              <mxPoint x="270" y="120" />
+            </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
