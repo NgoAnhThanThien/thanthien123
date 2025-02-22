@@ -191,12 +191,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DFrZbY_4Bm73K4eVYEuO-29" value="Cập nhật trạng thái đơn hàng" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.534;exitY=-0.01;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DFrZbY_4Bm73K4eVYEuO-1" target="DFrZbY_4Bm73K4eVYEuO-6">
+        <mxCell id="DFrZbY_4Bm73K4eVYEuO-29" value="Cập nhật trạng thái đơn hàng" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.467;exitY=-0.018;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DFrZbY_4Bm73K4eVYEuO-1" target="DFrZbY_4Bm73K4eVYEuO-6">
           <mxGeometry x="0.5226" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="340" as="sourcePoint" />
             <mxPoint x="340" y="350" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="440" y="120" />
+              <mxPoint x="429" y="120" />
               <mxPoint x="270" y="120" />
             </Array>
             <mxPoint as="offset" />
@@ -222,6 +222,16 @@
               <mxPoint x="620" y="300" />
             </Array>
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DFrZbY_4Bm73K4eVYEuO-32" value="Quản lý chương trình khuyến mãi" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.544;exitY=-0.01;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DFrZbY_4Bm73K4eVYEuO-1" target="DFrZbY_4Bm73K4eVYEuO-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="400" as="sourcePoint" />
+            <mxPoint x="340" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="443" y="280" />
+              <mxPoint x="590" y="280" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
