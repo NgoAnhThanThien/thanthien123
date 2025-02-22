@@ -107,16 +107,33 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DFrZbY_4Bm73K4eVYEuO-19" value="Theo dõi tình trạng đơn hàng" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.929;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.318;entryY=0.978;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DFrZbY_4Bm73K4eVYEuO-3" target="DFrZbY_4Bm73K4eVYEuO-1">
-          <mxGeometry x="0.5083" y="-3" width="50" height="50" relative="1" as="geometry">
+          <mxGeometry x="0.1879" y="1" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="260" y="400" as="sourcePoint" />
             <mxPoint x="310" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="460" />
+            </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DFrZbY_4Bm73K4eVYEuO-20" value="Đánh giá,Phản hồi về sản phảm và dịch vụ" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.574;exitY=0.025;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.072;entryY=0.816;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DFrZbY_4Bm73K4eVYEuO-3" target="DFrZbY_4Bm73K4eVYEuO-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxCell id="DFrZbY_4Bm73K4eVYEuO-20" value="Đánh giá,Phản hồi về sản phảm và dịch vụ" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.574;exitY=0.025;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.109;entryY=0.83;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DFrZbY_4Bm73K4eVYEuO-3" target="DFrZbY_4Bm73K4eVYEuO-1">
+          <mxGeometry x="0.2738" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="170" y="360" as="sourcePoint" />
             <mxPoint x="220" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="440" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DFrZbY_4Bm73K4eVYEuO-21" value="Kiểm duyệt sản phẩm trước khi đăng bán" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.109;entryY=0.193;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DFrZbY_4Bm73K4eVYEuO-4" target="DFrZbY_4Bm73K4eVYEuO-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="350" as="sourcePoint" />
+            <mxPoint x="360" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="200" />
+              <mxPoint x="360" y="200" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
