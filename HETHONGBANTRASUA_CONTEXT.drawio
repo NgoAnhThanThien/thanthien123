@@ -158,13 +158,23 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DFrZbY_4Bm73K4eVYEuO-25" value="Xem danh sách sản phẩm thông tin cửa hàng" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.376;exitY=1.012;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="DFrZbY_4Bm73K4eVYEuO-15" target="DFrZbY_4Bm73K4eVYEuO-1">
+        <mxCell id="DFrZbY_4Bm73K4eVYEuO-25" value="Xem danh sách sản phẩm ,thông tin cửa hàng" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.376;exitY=1.012;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="DFrZbY_4Bm73K4eVYEuO-15" target="DFrZbY_4Bm73K4eVYEuO-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="400" as="sourcePoint" />
             <mxPoint x="260" y="350" as="targetPoint" />
             <Array as="points">
               <mxPoint x="45" y="400" />
               <mxPoint x="160" y="405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DFrZbY_4Bm73K4eVYEuO-27" value="Cần đăng ký tài khoản để đặt hàng" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.012;exitY=0.626;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DFrZbY_4Bm73K4eVYEuO-1" target="DFrZbY_4Bm73K4eVYEuO-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="400" as="sourcePoint" />
+            <mxPoint x="340" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="420" />
+              <mxPoint x="30" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
