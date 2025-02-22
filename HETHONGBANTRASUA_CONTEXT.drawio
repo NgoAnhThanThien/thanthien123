@@ -139,13 +139,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DFrZbY_4Bm73K4eVYEuO-22" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.759;entryY=0.94;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="DFrZbY_4Bm73K4eVYEuO-8" target="DFrZbY_4Bm73K4eVYEuO-1">
+        <mxCell id="DFrZbY_4Bm73K4eVYEuO-22" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.74;entryY=0.949;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="DFrZbY_4Bm73K4eVYEuO-8" target="DFrZbY_4Bm73K4eVYEuO-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="150" y="400" as="sourcePoint" />
             <mxPoint x="200" y="350" as="targetPoint" />
             <Array as="points">
               <mxPoint x="740" y="640" />
-              <mxPoint x="484" y="640" />
+              <mxPoint x="480" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -154,13 +154,13 @@
             <mxPoint x="-52" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DFrZbY_4Bm73K4eVYEuO-24" value="Hệ thống gửi yêu cầu đặt hàng khi cần bổ sung" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.811;entryY=0.916;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="DFrZbY_4Bm73K4eVYEuO-8" target="DFrZbY_4Bm73K4eVYEuO-1">
+        <mxCell id="DFrZbY_4Bm73K4eVYEuO-24" value="Hệ thống gửi yêu cầu đặt hàng khi cần bổ sung" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.792;entryY=0.932;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="DFrZbY_4Bm73K4eVYEuO-8" target="DFrZbY_4Bm73K4eVYEuO-1">
           <mxGeometry x="-0.2169" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="710" y="660" as="sourcePoint" />
             <mxPoint x="200" y="350" as="targetPoint" />
             <Array as="points">
               <mxPoint x="770" y="620" />
-              <mxPoint x="494" y="620" />
+              <mxPoint x="490" y="620" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
