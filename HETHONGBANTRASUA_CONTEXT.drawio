@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="C_OIR3Y90_Gr9gQQEoFF">
-    <mxGraphModel dx="1793" dy="965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1304" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,14 +76,15 @@
         <mxCell id="DFrZbY_4Bm73K4eVYEuO-15" value="Guest" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DFrZbY_4Bm73K4eVYEuO-16" value="Thống kê" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.017;entryY=0.307;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="DFrZbY_4Bm73K4eVYEuO-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxCell id="DFrZbY_4Bm73K4eVYEuO-16" value="Thiết lập chính sách và quản lý hệ thống" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.017;entryY=0.307;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="DFrZbY_4Bm73K4eVYEuO-1">
+          <mxGeometry x="-0.1142" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="112" y="100" as="sourcePoint" />
             <mxPoint x="400" y="350" as="targetPoint" />
             <Array as="points">
               <mxPoint x="112" y="220" />
               <mxPoint x="343" y="220" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DFrZbY_4Bm73K4eVYEuO-17" value="Đăng ký,Đăng nhập" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.6;entryY=1.028;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DFrZbY_4Bm73K4eVYEuO-3" target="DFrZbY_4Bm73K4eVYEuO-1">
