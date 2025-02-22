@@ -218,12 +218,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DFrZbY_4Bm73K4eVYEuO-31" value="Giám sát hoạt động" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.826;exitY=0.147;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="DFrZbY_4Bm73K4eVYEuO-1" target="DFrZbY_4Bm73K4eVYEuO-7">
+        <mxCell id="DFrZbY_4Bm73K4eVYEuO-31" value="Giám sát hoạt động" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.735;exitY=0.064;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="DFrZbY_4Bm73K4eVYEuO-1" target="DFrZbY_4Bm73K4eVYEuO-7">
           <mxGeometry x="-0.2649" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="400" as="sourcePoint" />
             <mxPoint x="340" y="350" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="497" y="300" />
+              <mxPoint x="480" y="300" />
               <mxPoint x="620" y="300" />
             </Array>
             <mxPoint as="offset" />
