@@ -153,11 +153,15 @@
             <mxPoint x="-32" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DFrZbY_4Bm73K4eVYEuO-24" value="Hệ thống gửi yêu cầu đặt hàng khi cần bổ sung" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.811;entryY=0.916;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DFrZbY_4Bm73K4eVYEuO-8" target="DFrZbY_4Bm73K4eVYEuO-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="400" as="sourcePoint" />
+        <mxCell id="DFrZbY_4Bm73K4eVYEuO-24" value="Hệ thống gửi yêu cầu đặt hàng khi cần bổ sung" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.811;entryY=0.916;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="DFrZbY_4Bm73K4eVYEuO-8" target="DFrZbY_4Bm73K4eVYEuO-1">
+          <mxGeometry x="-0.2169" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="660" as="sourcePoint" />
             <mxPoint x="200" y="350" as="targetPoint" />
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="770" y="600" />
+              <mxPoint x="494" y="600" />
+            </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DFrZbY_4Bm73K4eVYEuO-25" value="Xem danh sách sản phẩm ,thông tin cửa hàng" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.376;exitY=1.012;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="DFrZbY_4Bm73K4eVYEuO-15" target="DFrZbY_4Bm73K4eVYEuO-1">
