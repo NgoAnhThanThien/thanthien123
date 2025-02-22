@@ -178,13 +178,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DFrZbY_4Bm73K4eVYEuO-28" value="Nhận đơn,chuẩn bị sản phẩm" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.126;entryY=1.027;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.319;exitY=0.048;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DFrZbY_4Bm73K4eVYEuO-1" target="DFrZbY_4Bm73K4eVYEuO-6">
+        <mxCell id="DFrZbY_4Bm73K4eVYEuO-28" value="Nhận đơn,chuẩn bị sản phẩm" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.319;exitY=0.048;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DFrZbY_4Bm73K4eVYEuO-1" target="DFrZbY_4Bm73K4eVYEuO-6">
           <mxGeometry x="0.3725" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="400" as="sourcePoint" />
             <mxPoint x="340" y="350" as="targetPoint" />
             <Array as="points">
               <mxPoint x="400" y="140" />
-              <mxPoint x="225" y="140" />
+              <mxPoint x="240" y="140" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -196,6 +196,17 @@
             <Array as="points">
               <mxPoint x="440" y="120" />
               <mxPoint x="270" y="120" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DFrZbY_4Bm73K4eVYEuO-30" value="Hỗ trợ khách hàng" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.111;exitY=1.058;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.223;entryY=0.048;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DFrZbY_4Bm73K4eVYEuO-6" target="DFrZbY_4Bm73K4eVYEuO-1">
+          <mxGeometry x="-0.3468" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="400" as="sourcePoint" />
+            <mxPoint x="340" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="223" y="160" />
+              <mxPoint x="380" y="160" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
