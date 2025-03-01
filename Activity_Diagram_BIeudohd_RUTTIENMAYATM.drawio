@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="iBAFh-Meh7RH4j335GwN-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="220" height="760" as="geometry" />
+          <mxGeometry x="40" y="40" width="220" height="820" as="geometry" />
         </mxCell>
         <mxCell id="iBAFh-Meh7RH4j335GwN-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="40" width="230" height="760" as="geometry" />
+          <mxGeometry x="260" y="40" width="230" height="820" as="geometry" />
         </mxCell>
         <mxCell id="iBAFh-Meh7RH4j335GwN-4" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="40" width="260" height="760" as="geometry" />
+          <mxGeometry x="490" y="40" width="260" height="820" as="geometry" />
         </mxCell>
         <mxCell id="iBAFh-Meh7RH4j335GwN-6" value="Khách hàng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="-20" width="220" height="60" as="geometry" />
@@ -153,13 +153,14 @@
         <mxCell id="iBAFh-Meh7RH4j335GwN-40" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="305" y="600" width="140" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="iBAFh-Meh7RH4j335GwN-41" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="iBAFh-Meh7RH4j335GwN-40" parent="1">
+        <mxCell id="iBAFh-Meh7RH4j335GwN-41" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="iBAFh-Meh7RH4j335GwN-40" parent="1" target="iBAFh-Meh7RH4j335GwN-42">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="405" y="680" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="375" y="680" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="iBAFh-Meh7RH4j335GwN-42" value="Condition" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="335" y="640" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
