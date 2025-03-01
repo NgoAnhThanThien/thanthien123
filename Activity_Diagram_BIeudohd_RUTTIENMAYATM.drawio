@@ -25,13 +25,22 @@
         <mxCell id="iBAFh-Meh7RH4j335GwN-9" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="135" y="70" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iBAFh-Meh7RH4j335GwN-10" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="iBAFh-Meh7RH4j335GwN-9" parent="1" target="iBAFh-Meh7RH4j335GwN-11">
+        <mxCell id="iBAFh-Meh7RH4j335GwN-10" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="iBAFh-Meh7RH4j335GwN-9" parent="1" target="iBAFh-Meh7RH4j335GwN-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="150" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iBAFh-Meh7RH4j335GwN-11" value="Chèn thẻ ATM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="iBAFh-Meh7RH4j335GwN-12" value="Activity" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="90" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iBAFh-Meh7RH4j335GwN-13" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0.329;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="iBAFh-Meh7RH4j335GwN-12" parent="1" target="iBAFh-Meh7RH4j335GwN-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="250" />
+              <mxPoint x="150" y="250" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
