@@ -86,7 +86,23 @@
         </mxCell>
         <mxCell id="iBAFh-Meh7RH4j335GwN-27" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="iBAFh-Meh7RH4j335GwN-26" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="580" y="460" as="targetPoint" />
+            <mxPoint x="580" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iBAFh-Meh7RH4j335GwN-28" value="Condition" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="540" y="430" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iBAFh-Meh7RH4j335GwN-29" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.769;entryY=0.592;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="iBAFh-Meh7RH4j335GwN-28" parent="1" target="iBAFh-Meh7RH4j335GwN-4">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="560" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iBAFh-Meh7RH4j335GwN-30" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="iBAFh-Meh7RH4j335GwN-28" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="420" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
