@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="KyakPXm99uiNBp-NimOs-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=left;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;fontColor=#33FF33;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-140" y="210" width="810" height="870" as="geometry" />
+          <mxGeometry x="-130" y="210" width="810" height="870" as="geometry" />
         </mxCell>
         <mxCell id="KyakPXm99uiNBp-NimOs-2" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="KyakPXm99uiNBp-NimOs-1">
           <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry x="20" y="90" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="KyakPXm99uiNBp-NimOs-19" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;html=1;whiteSpace=wrap;" vertex="1" parent="KyakPXm99uiNBp-NimOs-1">
-          <mxGeometry x="490" y="375" width="150" height="120" as="geometry" />
+          <mxGeometry x="500" y="375" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="KyakPXm99uiNBp-NimOs-20" value="Ngoại ngữ" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;html=1;whiteSpace=wrap;" vertex="1" parent="KyakPXm99uiNBp-NimOs-19">
           <mxGeometry x="5" width="110" height="30" as="geometry" />
