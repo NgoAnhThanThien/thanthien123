@@ -91,18 +91,18 @@
         <mxCell id="KyakPXm99uiNBp-NimOs-44" value="DANH SÁCH SINH VIÊN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=29;" vertex="1" parent="KyakPXm99uiNBp-NimOs-1">
           <mxGeometry x="190" y="650" width="380" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KyakPXm99uiNBp-NimOs-45" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;" vertex="1" parent="KyakPXm99uiNBp-NimOs-1">
+        <mxCell id="KyakPXm99uiNBp-NimOs-45" value="" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;" vertex="1" parent="KyakPXm99uiNBp-NimOs-1">
           <mxGeometry x="65" y="700" width="655" height="160" as="geometry" />
         </mxCell>
         <mxCell id="KyakPXm99uiNBp-NimOs-46" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="KyakPXm99uiNBp-NimOs-45">
           <mxGeometry width="655" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="KyakPXm99uiNBp-NimOs-47" value="Title 1" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="KyakPXm99uiNBp-NimOs-46">
+        <mxCell id="KyakPXm99uiNBp-NimOs-47" value="STT" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="KyakPXm99uiNBp-NimOs-46">
           <mxGeometry width="218" height="33" as="geometry">
             <mxRectangle width="218" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KyakPXm99uiNBp-NimOs-48" value="Title 2" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="KyakPXm99uiNBp-NimOs-46">
+        <mxCell id="KyakPXm99uiNBp-NimOs-48" value="HỌ VÀ TÊN" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="KyakPXm99uiNBp-NimOs-46">
           <mxGeometry x="218" width="219" height="33" as="geometry">
             <mxRectangle width="219" height="33" as="alternateBounds" />
           </mxGeometry>
@@ -115,7 +115,7 @@
         <mxCell id="KyakPXm99uiNBp-NimOs-50" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="KyakPXm99uiNBp-NimOs-45">
           <mxGeometry y="33" width="655" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="KyakPXm99uiNBp-NimOs-51" value="Value 1" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="KyakPXm99uiNBp-NimOs-50">
+        <mxCell id="KyakPXm99uiNBp-NimOs-51" value="001" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="KyakPXm99uiNBp-NimOs-50">
           <mxGeometry width="218" height="32" as="geometry">
             <mxRectangle width="218" height="32" as="alternateBounds" />
           </mxGeometry>
@@ -133,7 +133,7 @@
         <mxCell id="KyakPXm99uiNBp-NimOs-54" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" vertex="1" parent="KyakPXm99uiNBp-NimOs-45">
           <mxGeometry y="65" width="655" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="KyakPXm99uiNBp-NimOs-55" value="Value 4" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="KyakPXm99uiNBp-NimOs-54">
+        <mxCell id="KyakPXm99uiNBp-NimOs-55" value="002" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="KyakPXm99uiNBp-NimOs-54">
           <mxGeometry width="218" height="31" as="geometry">
             <mxRectangle width="218" height="31" as="alternateBounds" />
           </mxGeometry>
@@ -151,7 +151,7 @@
         <mxCell id="KyakPXm99uiNBp-NimOs-58" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="KyakPXm99uiNBp-NimOs-45">
           <mxGeometry y="96" width="655" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="KyakPXm99uiNBp-NimOs-59" value="Value 7" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="KyakPXm99uiNBp-NimOs-58">
+        <mxCell id="KyakPXm99uiNBp-NimOs-59" value="003" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="KyakPXm99uiNBp-NimOs-58">
           <mxGeometry width="218" height="33" as="geometry">
             <mxRectangle width="218" height="33" as="alternateBounds" />
           </mxGeometry>
@@ -169,7 +169,7 @@
         <mxCell id="KyakPXm99uiNBp-NimOs-62" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" vertex="1" parent="KyakPXm99uiNBp-NimOs-45">
           <mxGeometry y="129" width="655" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="KyakPXm99uiNBp-NimOs-63" value="Value 10" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="KyakPXm99uiNBp-NimOs-62">
+        <mxCell id="KyakPXm99uiNBp-NimOs-63" value="004" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="KyakPXm99uiNBp-NimOs-62">
           <mxGeometry width="218" height="31" as="geometry">
             <mxRectangle width="218" height="31" as="alternateBounds" />
           </mxGeometry>
