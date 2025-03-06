@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="KyakPXm99uiNBp-NimOs-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;fontColor=#33FF33;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="200" width="810" height="940" as="geometry" />
+          <mxGeometry x="-140" y="200" width="810" height="870" as="geometry" />
         </mxCell>
         <mxCell id="KyakPXm99uiNBp-NimOs-2" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="KyakPXm99uiNBp-NimOs-1">
           <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
@@ -89,10 +89,10 @@
           <mxGeometry x="570" y="540" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KyakPXm99uiNBp-NimOs-44" value="DANH SÁCH SINH VIÊN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=29;" vertex="1" parent="KyakPXm99uiNBp-NimOs-1">
-          <mxGeometry x="190" y="650" width="380" height="30" as="geometry" />
+          <mxGeometry x="190" y="630" width="380" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KyakPXm99uiNBp-NimOs-45" value="" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;" vertex="1" parent="KyakPXm99uiNBp-NimOs-1">
-          <mxGeometry x="65" y="700" width="655" height="160" as="geometry" />
+          <mxGeometry x="60" y="670" width="655" height="160" as="geometry" />
         </mxCell>
         <mxCell id="KyakPXm99uiNBp-NimOs-46" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="KyakPXm99uiNBp-NimOs-45">
           <mxGeometry width="655" height="33" as="geometry" />
