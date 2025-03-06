@@ -185,7 +185,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KyakPXm99uiNBp-NimOs-36" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.pwField;strokeColor=#999999;mainText=;align=left;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="KyakPXm99uiNBp-NimOs-1">
-          <mxGeometry x="310" y="290" width="310" height="50" as="geometry" />
+          <mxGeometry x="310" y="290" width="330" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
