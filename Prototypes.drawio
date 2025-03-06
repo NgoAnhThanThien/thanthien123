@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KyakPXm99uiNBp-NimOs-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=left;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;fontColor=#33FF33;" vertex="1" parent="1">
+        <mxCell id="KyakPXm99uiNBp-NimOs-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=left;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;fontColor=#33FF33;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-140" y="200" width="810" height="870" as="geometry" />
         </mxCell>
         <mxCell id="KyakPXm99uiNBp-NimOs-2" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="KyakPXm99uiNBp-NimOs-1">
@@ -17,7 +17,7 @@
           <mxGeometry x="40" y="190" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="KyakPXm99uiNBp-NimOs-5" value="&lt;font style=&quot;&quot;&gt;NHẬP THÔNG TIN NHÂN SỰ&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1;fontColor=#0000FF;" vertex="1" parent="KyakPXm99uiNBp-NimOs-1">
-          <mxGeometry x="150" y="150" width="370" height="30" as="geometry" />
+          <mxGeometry x="160" y="150" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KyakPXm99uiNBp-NimOs-6" value="Mã nhân viên:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KyakPXm99uiNBp-NimOs-1">
           <mxGeometry x="200" y="210" width="130" height="30" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="250" y="280" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KyakPXm99uiNBp-NimOs-9" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;html=1;whiteSpace=wrap;" vertex="1" parent="KyakPXm99uiNBp-NimOs-1">
-          <mxGeometry x="80" y="400" width="150" height="120" as="geometry" />
+          <mxGeometry x="80" y="375" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="KyakPXm99uiNBp-NimOs-10" value="Học vấn" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;html=1;whiteSpace=wrap;" vertex="1" parent="KyakPXm99uiNBp-NimOs-9">
           <mxGeometry x="5" width="90" height="30" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="20" y="90" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="KyakPXm99uiNBp-NimOs-15" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;html=1;whiteSpace=wrap;" vertex="1" parent="KyakPXm99uiNBp-NimOs-1">
-          <mxGeometry x="280" y="400" width="150" height="120" as="geometry" />
+          <mxGeometry x="280" y="375" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="KyakPXm99uiNBp-NimOs-16" value="Ngoại ngữ" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;html=1;whiteSpace=wrap;" vertex="1" parent="KyakPXm99uiNBp-NimOs-15">
           <mxGeometry x="5" width="110" height="30" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry x="20" y="90" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="KyakPXm99uiNBp-NimOs-19" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;html=1;whiteSpace=wrap;" vertex="1" parent="KyakPXm99uiNBp-NimOs-1">
-          <mxGeometry x="490" y="400" width="150" height="120" as="geometry" />
+          <mxGeometry x="490" y="370" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="KyakPXm99uiNBp-NimOs-20" value="Ngoại ngữ" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;html=1;whiteSpace=wrap;" vertex="1" parent="KyakPXm99uiNBp-NimOs-19">
           <mxGeometry x="5" width="110" height="30" as="geometry" />
@@ -77,22 +77,22 @@
           <mxGeometry x="550" y="210" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KyakPXm99uiNBp-NimOs-37" value="Add new" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="KyakPXm99uiNBp-NimOs-1">
-          <mxGeometry x="80" y="540" width="130" height="60" as="geometry" />
+          <mxGeometry x="80" y="520" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KyakPXm99uiNBp-NimOs-41" value="Update&amp;nbsp;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="KyakPXm99uiNBp-NimOs-1">
-          <mxGeometry x="240" y="540" width="130" height="60" as="geometry" />
+          <mxGeometry x="240" y="520" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KyakPXm99uiNBp-NimOs-42" value="Delete" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="KyakPXm99uiNBp-NimOs-1">
-          <mxGeometry x="410" y="540" width="130" height="60" as="geometry" />
+          <mxGeometry x="410" y="520" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KyakPXm99uiNBp-NimOs-43" value="Help" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="KyakPXm99uiNBp-NimOs-1">
-          <mxGeometry x="570" y="540" width="130" height="60" as="geometry" />
+          <mxGeometry x="570" y="520" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KyakPXm99uiNBp-NimOs-44" value="DANH SÁCH SINH VIÊN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="KyakPXm99uiNBp-NimOs-1">
-          <mxGeometry x="190" y="630" width="380" height="30" as="geometry" />
+        <mxCell id="KyakPXm99uiNBp-NimOs-44" value="DANH SÁCH SINH VIÊN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="KyakPXm99uiNBp-NimOs-1">
+          <mxGeometry x="195" y="600" width="380" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KyakPXm99uiNBp-NimOs-45" value="" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;align=left;" vertex="1" parent="KyakPXm99uiNBp-NimOs-1">
-          <mxGeometry x="60" y="670" width="655" height="160" as="geometry" />
+          <mxGeometry x="60" y="640" width="655" height="160" as="geometry" />
         </mxCell>
         <mxCell id="KyakPXm99uiNBp-NimOs-46" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="KyakPXm99uiNBp-NimOs-45">
           <mxGeometry width="655" height="33" as="geometry" />
@@ -185,7 +185,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KyakPXm99uiNBp-NimOs-36" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.pwField;strokeColor=#999999;mainText=;align=left;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="KyakPXm99uiNBp-NimOs-1">
-          <mxGeometry x="310" y="300" width="330" height="60" as="geometry" />
+          <mxGeometry x="310" y="290" width="310" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
