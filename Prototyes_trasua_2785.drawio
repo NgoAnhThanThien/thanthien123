@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0" pages="2">
   <diagram name="Page-1" id="wJlr5OTCxFn2WnX857zH">
     <mxGraphModel dx="1509" dy="1913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -42,6 +42,41 @@
         </mxCell>
         <mxCell id="hgU6Fp-lKwBG7PjbyS6M-13" value="Đăng nhập" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1;fontColor=#FF00FF;" vertex="1" parent="1">
           <mxGeometry x="365" y="135" width="170" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="wtBKlfhDIjldnVnWm9H-" name="Page-2">
+    <mxGraphModel dx="1509" dy="1913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8k8BxZv_DXHg5_Ky2KHR-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;labelBackgroundColor=#E5CCFF;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-220" width="860" height="840" as="geometry" />
+        </mxCell>
+        <mxCell id="8k8BxZv_DXHg5_Ky2KHR-2" value="Hide Land" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="8k8BxZv_DXHg5_Ky2KHR-1">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="8k8BxZv_DXHg5_Ky2KHR-3" value="https://www.HideLand.com/product" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="8k8BxZv_DXHg5_Ky2KHR-1">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="8k8BxZv_DXHg5_Ky2KHR-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="8k8BxZv_DXHg5_Ky2KHR-1">
+          <mxGeometry x="220" y="290" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="8k8BxZv_DXHg5_Ky2KHR-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="8k8BxZv_DXHg5_Ky2KHR-1">
+          <mxGeometry x="430" y="290" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="8k8BxZv_DXHg5_Ky2KHR-10" value="900.000vnd" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8k8BxZv_DXHg5_Ky2KHR-1">
+          <mxGeometry x="530" y="430" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8k8BxZv_DXHg5_Ky2KHR-7" value="900.000vnd" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8k8BxZv_DXHg5_Ky2KHR-1">
+          <mxGeometry x="320" y="430" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8k8BxZv_DXHg5_Ky2KHR-11" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;html=1;whiteSpace=wrap;" vertex="1" parent="8k8BxZv_DXHg5_Ky2KHR-1">
+          <mxGeometry x="100" y="540" width="190" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="8k8BxZv_DXHg5_Ky2KHR-12" value="Trà sữa ô long" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;html=1;whiteSpace=wrap;" vertex="1" parent="8k8BxZv_DXHg5_Ky2KHR-11">
+          <mxGeometry x="5" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
