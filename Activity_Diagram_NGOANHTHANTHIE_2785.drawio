@@ -148,19 +148,16 @@
         <mxCell id="OJtXix-rKnWWRH7B-OXC-13" value="Kiểm tra hợp lệ" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="292.5" y="250" width="115" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OJtXix-rKnWWRH7B-OXC-14" value="Thông báo thất bại&lt;br&gt;Yêu cầu nhập lại" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="260" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OJtXix-rKnWWRH7B-OXC-15" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OJtXix-rKnWWRH7B-OXC-14" target="ned_iLlEMys6Y8U70iTu-2">
+        <mxCell id="OJtXix-rKnWWRH7B-OXC-15" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ned_iLlEMys6Y8U70iTu-4" target="ned_iLlEMys6Y8U70iTu-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="160" as="targetPoint" />
             <Array as="points" />
-            <mxPoint x="566" y="182" as="sourcePoint" />
+            <mxPoint x="530" y="260" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OJtXix-rKnWWRH7B-OXC-16" value="Không" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OJtXix-rKnWWRH7B-OXC-13" target="OJtXix-rKnWWRH7B-OXC-14">
+        <mxCell id="OJtXix-rKnWWRH7B-OXC-16" value="Không" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OJtXix-rKnWWRH7B-OXC-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="535" y="309.47" as="targetPoint" />
+            <mxPoint x="470" y="290" as="targetPoint" />
             <Array as="points" />
             <mxPoint x="425" y="309.47" as="sourcePoint" />
           </mxGeometry>
@@ -265,6 +262,9 @@
         </mxCell>
         <mxCell id="ned_iLlEMys6Y8U70iTu-3" value="Nhập thông tin đăng nhập, kích hoạt đăng nhập" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="80" y="260" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ned_iLlEMys6Y8U70iTu-4" value="Thông báo thất bại&lt;br&gt;Yêu cầu nhập lại" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="470" y="270" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
