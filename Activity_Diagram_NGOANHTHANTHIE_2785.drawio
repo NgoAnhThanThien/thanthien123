@@ -207,6 +207,9 @@
         <mxCell id="TwiwFP3ZveQqd99gi0rM-1" value="Kích vào thông tin tài khoản,chọn đăng ký tài khoản" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="390" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TwiwFP3ZveQqd99gi0rM-2" value="Hiển thị form đăng ký" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
