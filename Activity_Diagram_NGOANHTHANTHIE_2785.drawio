@@ -212,29 +212,26 @@
             <mxPoint x="150" y="460" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TwiwFP3ZveQqd99gi0rM-6" value="Kiểm tra hợp lệ" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="292.5" y="560" width="115" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="TwiwFP3ZveQqd99gi0rM-7" value="Không" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TwiwFP3ZveQqd99gi0rM-6" target="TwiwFP3ZveQqd99gi0rM-4">
+        <mxCell id="TwiwFP3ZveQqd99gi0rM-7" value="Không" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="TwiwFP3ZveQqd99gi0rM-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="470" y="600" as="targetPoint" />
             <Array as="points" />
-            <mxPoint x="425" y="619.47" as="sourcePoint" />
+            <mxPoint x="407.5" y="600" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TwiwFP3ZveQqd99gi0rM-8" value="có" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TwiwFP3ZveQqd99gi0rM-6" target="TwiwFP3ZveQqd99gi0rM-11">
+        <mxCell id="TwiwFP3ZveQqd99gi0rM-8" value="có" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="TwiwFP3ZveQqd99gi0rM-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="700" as="targetPoint" />
             <Array as="points" />
-            <mxPoint x="330" y="510" as="sourcePoint" />
+            <mxPoint x="350" y="640" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TwiwFP3ZveQqd99gi0rM-9" value="Nhập thông tin đăng ký, kích hoạt đăng ký" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TwiwFP3ZveQqd99gi0rM-10" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TwiwFP3ZveQqd99gi0rM-9" target="TwiwFP3ZveQqd99gi0rM-6">
+        <mxCell id="TwiwFP3ZveQqd99gi0rM-10" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TwiwFP3ZveQqd99gi0rM-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="283" y="589.5" as="targetPoint" />
+            <mxPoint x="292.5" y="600" as="targetPoint" />
             <Array as="points" />
             <mxPoint x="200" y="589.5" as="sourcePoint" />
           </mxGeometry>
@@ -265,6 +262,9 @@
         </mxCell>
         <mxCell id="ned_iLlEMys6Y8U70iTu-5" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Kiểm tra hợp lệ&lt;/span&gt;&#xa;&#xa;" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="290" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ned_iLlEMys6Y8U70iTu-6" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Kiểm tra hợp lệ&lt;/span&gt;&#xa;&#xa;" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="290" y="560" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
