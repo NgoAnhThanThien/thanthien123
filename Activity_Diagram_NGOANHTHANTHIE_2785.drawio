@@ -208,7 +208,14 @@
           <mxGeometry x="80" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TwiwFP3ZveQqd99gi0rM-2" value="Hiển thị form đăng ký" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TwiwFP3ZveQqd99gi0rM-3" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TwiwFP3ZveQqd99gi0rM-1" target="TwiwFP3ZveQqd99gi0rM-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="430" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="300" y="430" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
