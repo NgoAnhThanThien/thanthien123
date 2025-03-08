@@ -16,6 +16,9 @@
         <mxCell id="hgU6Fp-lKwBG7PjbyS6M-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hgU6Fp-lKwBG7PjbyS6M-1">
           <mxGeometry x="280" y="300" width="300" height="380" as="geometry" />
         </mxCell>
+        <mxCell id="09VlGSQ1f3KJmYvVAinF-1" value="NGÔ ANH THÂN THIỆN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hgU6Fp-lKwBG7PjbyS6M-1">
+          <mxGeometry x="760" y="720" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="hgU6Fp-lKwBG7PjbyS6M-5" value="Đăng nhập" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="340" y="280" width="210" height="30" as="geometry" />
         </mxCell>
@@ -143,6 +146,9 @@
         </mxCell>
         <mxCell id="8k8BxZv_DXHg5_Ky2KHR-73" value="Giá bán:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8k8BxZv_DXHg5_Ky2KHR-1">
           <mxGeometry x="285" y="297.5" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8k8BxZv_DXHg5_Ky2KHR-74" value="NGÔ ANH THÂN THIỆN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8k8BxZv_DXHg5_Ky2KHR-1">
+          <mxGeometry x="790" y="840" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
