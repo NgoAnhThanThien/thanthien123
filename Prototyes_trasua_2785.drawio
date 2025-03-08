@@ -13,14 +13,14 @@
         <mxCell id="hgU6Fp-lKwBG7PjbyS6M-3" value="https://www.HideLand.com" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="hgU6Fp-lKwBG7PjbyS6M-1">
           <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="hgU6Fp-lKwBG7PjbyS6M-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="60" width="300" height="380" as="geometry" />
+        <mxCell id="hgU6Fp-lKwBG7PjbyS6M-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hgU6Fp-lKwBG7PjbyS6M-1">
+          <mxGeometry x="280" y="300" width="300" height="380" as="geometry" />
         </mxCell>
         <mxCell id="hgU6Fp-lKwBG7PjbyS6M-5" value="Đăng nhập" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="350" y="280" width="200" height="30" as="geometry" />
+          <mxGeometry x="340" y="280" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hgU6Fp-lKwBG7PjbyS6M-6" value="--------------Hoặc đăng nhập với--------------" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="335" y="303" width="230" height="30" as="geometry" />
+        <mxCell id="hgU6Fp-lKwBG7PjbyS6M-6" value="--------------Hoặc đăng nhập với---------------" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="310" y="303" width="255" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hgU6Fp-lKwBG7PjbyS6M-7" value="Facebook" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="335" y="340" width="100" height="30" as="geometry" />
@@ -29,10 +29,10 @@
           <mxGeometry x="470" y="340" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hgU6Fp-lKwBG7PjbyS6M-9" value="********" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.pwField;strokeColor=#999999;mainText=;align=left;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
-          <mxGeometry x="355" y="230" width="195" height="30" as="geometry" />
+          <mxGeometry x="340" y="230" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hgU6Fp-lKwBG7PjbyS6M-10" value="abc123" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.pwField;strokeColor=#999999;mainText=;align=left;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
-          <mxGeometry x="355" y="190" width="195" height="30" as="geometry" />
+          <mxGeometry x="340" y="190" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hgU6Fp-lKwBG7PjbyS6M-11" value="Bạn chưa có tài khoản?&lt;a href=&quot;https://app.diagrams.net/#HNgoAnhThanThien%2Fthanthien123%2Fmain%2FPrototyes_trasua_2785.drawio#%7B%22pageId%22%3A%22wJlr5OTCxFn2WnX857zH%22%7D&quot;&gt;&lt;b&gt;&lt;font&gt;Đăng ký ngay&lt;/font&gt;&lt;/b&gt;&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="355" y="380" width="210" height="30" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="377.5" y="410" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hgU6Fp-lKwBG7PjbyS6M-13" value="Đăng nhập" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1;fontColor=#FF00FF;" vertex="1" parent="1">
-          <mxGeometry x="365" y="70" width="170" height="50" as="geometry" />
+          <mxGeometry x="365" y="135" width="170" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
