@@ -61,7 +61,7 @@
           <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
         </mxCell>
         <mxCell id="8k8BxZv_DXHg5_Ky2KHR-11" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family:&amp;quot;Times New Roman&amp;quot;,serif&quot;&gt;Tên sản&lt;br&gt;phẩm:&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family:&amp;quot;Times New Roman&amp;quot;,serif&quot;&gt;&amp;nbsp;Trà Ô&lt;br&gt;Long Cao Cấp&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Mã sản phẩm:&lt;/b&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;OLC-001&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Times New Roman&amp;quot;,serif&quot;&gt;&amp;nbsp;&lt;b&gt;Danh mục sản phẩm:&lt;/b&gt;&amp;nbsp;Trà Ô Long&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Times New Roman&amp;quot;,serif&quot;&gt;&lt;b&gt;Giá bán:&lt;/b&gt;&amp;nbsp;150.000 VNĐ/100g&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family:&amp;quot;Times New Roman&amp;quot;,serif&quot;&gt;&lt;b&gt;Trạng thái:&lt;/b&gt;&amp;nbsp;Còn hàng&lt;/span&gt;&lt;/p&gt;" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;html=1;whiteSpace=wrap;" vertex="1" parent="8k8BxZv_DXHg5_Ky2KHR-1">
-          <mxGeometry x="90" y="650" width="190" height="220" as="geometry" />
+          <mxGeometry x="70" y="510" width="190" height="220" as="geometry" />
         </mxCell>
         <mxCell id="8k8BxZv_DXHg5_Ky2KHR-12" value="Trà sữa ô long" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;html=1;whiteSpace=wrap;" vertex="1" parent="8k8BxZv_DXHg5_Ky2KHR-11">
           <mxGeometry x="5" width="140" height="30" as="geometry" />
@@ -93,101 +93,8 @@
         <mxCell id="8k8BxZv_DXHg5_Ky2KHR-33" value="Help" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="8k8BxZv_DXHg5_Ky2KHR-1">
           <mxGeometry x="620" y="352.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8k8BxZv_DXHg5_Ky2KHR-34" value="DANH SÁCH NHÂN VIÊN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="8k8BxZv_DXHg5_Ky2KHR-1">
+        <mxCell id="8k8BxZv_DXHg5_Ky2KHR-34" value="DANH SÁCH TRÀ SỮA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="8k8BxZv_DXHg5_Ky2KHR-1">
           <mxGeometry x="245" y="432.5" width="380" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="8k8BxZv_DXHg5_Ky2KHR-35" value="" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;align=left;" vertex="1" parent="8k8BxZv_DXHg5_Ky2KHR-1">
-          <mxGeometry x="110" y="472.5" width="655" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="8k8BxZv_DXHg5_Ky2KHR-36" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="8k8BxZv_DXHg5_Ky2KHR-35">
-          <mxGeometry width="655" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="8k8BxZv_DXHg5_Ky2KHR-37" value="Mã Nhân Viên" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="8k8BxZv_DXHg5_Ky2KHR-36">
-          <mxGeometry width="218" height="33" as="geometry">
-            <mxRectangle width="218" height="33" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8k8BxZv_DXHg5_Ky2KHR-38" value="HỌ VÀ TÊN" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="8k8BxZv_DXHg5_Ky2KHR-36">
-          <mxGeometry x="218" width="219" height="33" as="geometry">
-            <mxRectangle width="219" height="33" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8k8BxZv_DXHg5_Ky2KHR-39" value="Quê Quán" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="8k8BxZv_DXHg5_Ky2KHR-36">
-          <mxGeometry x="437" width="218" height="33" as="geometry">
-            <mxRectangle width="218" height="33" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8k8BxZv_DXHg5_Ky2KHR-40" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="8k8BxZv_DXHg5_Ky2KHR-35">
-          <mxGeometry y="33" width="655" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="8k8BxZv_DXHg5_Ky2KHR-41" value="001" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="8k8BxZv_DXHg5_Ky2KHR-40">
-          <mxGeometry width="218" height="32" as="geometry">
-            <mxRectangle width="218" height="32" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8k8BxZv_DXHg5_Ky2KHR-42" value="Vũ Như Cẩn" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=left;whiteSpace=wrap;html=1;" vertex="1" parent="8k8BxZv_DXHg5_Ky2KHR-40">
-          <mxGeometry x="218" width="219" height="32" as="geometry">
-            <mxRectangle width="219" height="32" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8k8BxZv_DXHg5_Ky2KHR-43" value="Quảng Nam" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=left;whiteSpace=wrap;html=1;" vertex="1" parent="8k8BxZv_DXHg5_Ky2KHR-40">
-          <mxGeometry x="437" width="218" height="32" as="geometry">
-            <mxRectangle width="218" height="32" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8k8BxZv_DXHg5_Ky2KHR-44" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" vertex="1" parent="8k8BxZv_DXHg5_Ky2KHR-35">
-          <mxGeometry y="65" width="655" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="8k8BxZv_DXHg5_Ky2KHR-45" value="002" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="8k8BxZv_DXHg5_Ky2KHR-44">
-          <mxGeometry width="218" height="31" as="geometry">
-            <mxRectangle width="218" height="31" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8k8BxZv_DXHg5_Ky2KHR-46" value="" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="8k8BxZv_DXHg5_Ky2KHR-44">
-          <mxGeometry x="218" width="219" height="31" as="geometry">
-            <mxRectangle width="219" height="31" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8k8BxZv_DXHg5_Ky2KHR-47" value="Đà Nẵng" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="8k8BxZv_DXHg5_Ky2KHR-44">
-          <mxGeometry x="437" width="218" height="31" as="geometry">
-            <mxRectangle width="218" height="31" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8k8BxZv_DXHg5_Ky2KHR-48" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;align=left;" vertex="1" parent="8k8BxZv_DXHg5_Ky2KHR-35">
-          <mxGeometry y="96" width="655" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="8k8BxZv_DXHg5_Ky2KHR-49" value="003" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="8k8BxZv_DXHg5_Ky2KHR-48">
-          <mxGeometry width="218" height="33" as="geometry">
-            <mxRectangle width="218" height="33" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8k8BxZv_DXHg5_Ky2KHR-50" value="U Như Kỹ" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=left;whiteSpace=wrap;html=1;" vertex="1" parent="8k8BxZv_DXHg5_Ky2KHR-48">
-          <mxGeometry x="218" width="219" height="33" as="geometry">
-            <mxRectangle width="219" height="33" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8k8BxZv_DXHg5_Ky2KHR-51" value="Quảng Bình" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=left;whiteSpace=wrap;html=1;" vertex="1" parent="8k8BxZv_DXHg5_Ky2KHR-48">
-          <mxGeometry x="437" width="218" height="33" as="geometry">
-            <mxRectangle width="218" height="33" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8k8BxZv_DXHg5_Ky2KHR-52" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" vertex="1" parent="8k8BxZv_DXHg5_Ky2KHR-35">
-          <mxGeometry y="129" width="655" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="8k8BxZv_DXHg5_Ky2KHR-53" value="004" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="8k8BxZv_DXHg5_Ky2KHR-52">
-          <mxGeometry width="218" height="31" as="geometry">
-            <mxRectangle width="218" height="31" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8k8BxZv_DXHg5_Ky2KHR-54" value="Nguyễn Văn Anh" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="8k8BxZv_DXHg5_Ky2KHR-52">
-          <mxGeometry x="218" width="219" height="31" as="geometry">
-            <mxRectangle width="219" height="31" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8k8BxZv_DXHg5_Ky2KHR-55" value="TT Huế" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="8k8BxZv_DXHg5_Ky2KHR-52">
-          <mxGeometry x="437" width="218" height="31" as="geometry">
-            <mxRectangle width="218" height="31" as="alternateBounds" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="8k8BxZv_DXHg5_Ky2KHR-56" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Setting%201%22%20style%3D%22shape%3Dellipse%3BfillColor%3D%23eeeeee%3BstrokeColor%3D%23999999%3BgradientColor%3D%23cccccc%3Bhtml%3D1%3Balign%3Dleft%3BspacingLeft%3D4%3BfontSize%3D17%3BfontColor%3D%23666666%3BlabelPosition%3Dright%3Bshadow%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22405%22%20y%3D%22535%22%20width%3D%2215%22%20height%3D%2215%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.pwField;strokeColor=#999999;mainText=;align=left;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="8k8BxZv_DXHg5_Ky2KHR-1">
           <mxGeometry x="130" y="220" width="150" height="30" as="geometry" />
@@ -206,6 +113,18 @@
         </mxCell>
         <mxCell id="8k8BxZv_DXHg5_Ky2KHR-62" value="Loại hàng:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8k8BxZv_DXHg5_Ky2KHR-1">
           <mxGeometry x="52" y="300" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8k8BxZv_DXHg5_Ky2KHR-63" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;strong data-end=&quot;42&quot; data-start=&quot;25&quot;&gt;Tên sản phẩm:&lt;/strong&gt; Trà Xanh Thái Nguyên&lt;br data-end=&quot;66&quot; data-start=&quot;63&quot;&gt;&lt;br/&gt;&lt;strong data-end=&quot;82&quot; data-start=&quot;66&quot;&gt;Mã sản phẩm:&lt;/strong&gt; TXN-002 (hoặc mã tự động)&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;strong data-end=&quot;475&quot; data-start=&quot;453&quot;&gt;Danh mục sản phẩm:&lt;/strong&gt; Trà Xanh&lt;br data-end=&quot;487&quot; data-start=&quot;484&quot;&gt;&lt;br/&gt;&lt;strong data-end=&quot;499&quot; data-start=&quot;487&quot;&gt;Giá bán:&lt;/strong&gt; 120.000 VNĐ/100g&lt;br data-end=&quot;519&quot; data-start=&quot;516&quot;&gt;&lt;br/&gt;&lt;strong data-end=&quot;534&quot; data-start=&quot;519&quot;&gt;Trạng thái:&lt;/strong&gt; Còn hàng&lt;/p&gt;" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;html=1;whiteSpace=wrap;" vertex="1" parent="8k8BxZv_DXHg5_Ky2KHR-1">
+          <mxGeometry x="290" y="510" width="255" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="8k8BxZv_DXHg5_Ky2KHR-64" value="Trà sữa Trà xanh thái nguyên" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;html=1;whiteSpace=wrap;" vertex="1" parent="8k8BxZv_DXHg5_Ky2KHR-63">
+          <mxGeometry x="5" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8k8BxZv_DXHg5_Ky2KHR-65" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;strong data-end=&quot;596&quot; data-start=&quot;579&quot;&gt;Tên sản phẩm:&lt;/strong&gt; Trà Sen Tây Hồ&lt;br data-end=&quot;614&quot; data-start=&quot;611&quot;&gt;&lt;br/&gt;&lt;strong data-end=&quot;630&quot; data-start=&quot;614&quot;&gt;Mã sản phẩm:&lt;/strong&gt; TSTH-003 (hoặc mã tự động)&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;strong data-end=&quot;1044&quot; data-start=&quot;1022&quot;&gt;Danh mục sản phẩm:&lt;/strong&gt; Trà Hương Sen&lt;br data-end=&quot;1061&quot; data-start=&quot;1058&quot;&gt;&lt;br/&gt;&lt;strong data-end=&quot;1073&quot; data-start=&quot;1061&quot;&gt;Giá bán:&lt;/strong&gt; 250.000 VNĐ/100g&lt;br data-end=&quot;1093&quot; data-start=&quot;1090&quot;&gt;&lt;br/&gt;&lt;strong data-end=&quot;1108&quot; data-start=&quot;1093&quot;&gt;Trạng thái:&lt;/strong&gt; Còn hàng&lt;/p&gt;" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;html=1;whiteSpace=wrap;" vertex="1" parent="8k8BxZv_DXHg5_Ky2KHR-1">
+          <mxGeometry x="580" y="510" width="190" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="8k8BxZv_DXHg5_Ky2KHR-66" value="Trà sữa sen Tây hồ" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;html=1;whiteSpace=wrap;" vertex="1" parent="8k8BxZv_DXHg5_Ky2KHR-65">
+          <mxGeometry x="5" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
