@@ -87,7 +87,7 @@
         <mxCell id="F3LL_b6cCCwMaauCsRJz-50" value="Thành công vào hệ thống" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="277.5" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F3LL_b6cCCwMaauCsRJz-52" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="F3LL_b6cCCwMaauCsRJz-52" value="K" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="120" y="405" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F3LL_b6cCCwMaauCsRJz-53" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="F3LL_b6cCCwMaauCsRJz-50" target="F3LL_b6cCCwMaauCsRJz-52">
@@ -96,6 +96,9 @@
             <Array as="points" />
             <mxPoint x="270" y="420" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="F3LL_b6cCCwMaauCsRJz-55" value="Kết thúc" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="410" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
