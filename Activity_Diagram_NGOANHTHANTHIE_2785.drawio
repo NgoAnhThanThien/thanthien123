@@ -120,7 +120,7 @@
         <mxCell id="OJtXix-rKnWWRH7B-OXC-4" value="Hệ thống" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="-20" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OJtXix-rKnWWRH7B-OXC-5" value="Từ màn hình chính chọn màn hình đăng ký" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OJtXix-rKnWWRH7B-OXC-5" value="Từ màn hình chính chọn màn hình đăng&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OJtXix-rKnWWRH7B-OXC-6" value="Bắt đầu" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -144,10 +144,10 @@
             <mxPoint x="155" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OJtXix-rKnWWRH7B-OXC-11" value="Nhập thông tin đăng ký" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OJtXix-rKnWWRH7B-OXC-11" value="Nhập thông tin đăng nhập, kích hoạt đăng nhập" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OJtXix-rKnWWRH7B-OXC-12" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.905;entryY=-0.032;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OJtXix-rKnWWRH7B-OXC-8" target="OJtXix-rKnWWRH7B-OXC-11">
+        <mxCell id="OJtXix-rKnWWRH7B-OXC-12" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0.117;exitY=1.017;exitDx=0;exitDy=0;entryX=0.905;entryY=-0.032;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="OJtXix-rKnWWRH7B-OXC-8" target="OJtXix-rKnWWRH7B-OXC-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="170" as="targetPoint" />
             <Array as="points" />
