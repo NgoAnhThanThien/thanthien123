@@ -234,7 +234,7 @@
             <mxPoint x="290" y="730" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ned_iLlEMys6Y8U70iTu-1" value="Từ màn hình chính chọn màn hình đăng&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="ned_iLlEMys6Y8U70iTu-1" value="Từ màn hình chính chọn màn hình đăng&amp;nbsp;&lt;div&gt;nhập&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="80" y="130" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ned_iLlEMys6Y8U70iTu-2" value="Hiển thị form đăng nhập" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
