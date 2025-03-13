@@ -161,13 +161,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xZG8g1dK-9rmGVhBD8su-43" value="Xác nhận đơn hàng,tính chi&amp;nbsp;" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.668;entryY=1.018;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.002;exitY=0.644;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="xZG8g1dK-9rmGVhBD8su-2" target="xZG8g1dK-9rmGVhBD8su-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxCell id="xZG8g1dK-9rmGVhBD8su-43" value="Xác nhận đơn hàng,tính chi phí" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.668;entryY=1.018;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.002;exitY=0.644;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="xZG8g1dK-9rmGVhBD8su-2" target="xZG8g1dK-9rmGVhBD8su-1">
+          <mxGeometry x="-0.2431" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="470" as="sourcePoint" />
             <mxPoint x="230" y="420" as="targetPoint" />
             <Array as="points">
               <mxPoint x="467" y="683" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xZG8g1dK-9rmGVhBD8su-45" value="Tạo hóa đơn tự động&amp;nbsp;" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0.744;exitY=0.099;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="xZG8g1dK-9rmGVhBD8su-1" target="xZG8g1dK-9rmGVhBD8su-5">
