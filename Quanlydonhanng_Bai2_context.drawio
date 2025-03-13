@@ -88,7 +88,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xZG8g1dK-9rmGVhBD8su-32" value="Xem danh sách đơn&amp;nbsp;" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.984;exitY=0.387;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xZG8g1dK-9rmGVhBD8su-1" target="xZG8g1dK-9rmGVhBD8su-6">
+        <mxCell id="xZG8g1dK-9rmGVhBD8su-32" value="Xem danh sách đơn hàng" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.984;exitY=0.387;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xZG8g1dK-9rmGVhBD8su-1" target="xZG8g1dK-9rmGVhBD8su-6">
           <mxGeometry x="-0.3588" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="400" as="sourcePoint" />
             <mxPoint x="340" y="350" as="targetPoint" />
