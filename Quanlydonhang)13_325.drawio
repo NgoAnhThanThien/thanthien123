@@ -101,7 +101,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7Zf0eA3XC2uxdwHDN1mc-28" value="Tính toán tổng tiền" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="500" width="120" height="80" as="geometry" />
+          <mxGeometry x="630" y="500" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7Zf0eA3XC2uxdwHDN1mc-29" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.974;exitY=0.339;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="7Zf0eA3XC2uxdwHDN1mc-8" target="7Zf0eA3XC2uxdwHDN1mc-28" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
