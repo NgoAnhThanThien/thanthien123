@@ -58,17 +58,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xZG8g1dK-9rmGVhBD8su-12" value="Quản lý nhân viên" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.917;exitY=0.271;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="xZG8g1dK-9rmGVhBD8su-1" target="xZG8g1dK-9rmGVhBD8su-6">
-          <mxGeometry x="-0.1939" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="400" as="sourcePoint" />
-            <mxPoint x="450" y="370" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="514" y="320" />
-              <mxPoint x="650" y="320" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="xZG8g1dK-9rmGVhBD8su-13" value="Guest" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="300" width="120" height="60" as="geometry" />
         </mxCell>
@@ -166,34 +155,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xZG8g1dK-9rmGVhBD8su-28" value="Giám sát hoạt động" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.735;exitY=0.064;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="xZG8g1dK-9rmGVhBD8su-1" target="xZG8g1dK-9rmGVhBD8su-6">
-          <mxGeometry x="-0.2649" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="400" as="sourcePoint" />
-            <mxPoint x="340" y="350" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="480" y="300" />
-              <mxPoint x="620" y="300" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xZG8g1dK-9rmGVhBD8su-29" value="Quản lý chương trình khuyến mãi" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.632;exitY=0.036;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xZG8g1dK-9rmGVhBD8su-1" target="xZG8g1dK-9rmGVhBD8su-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="400" as="sourcePoint" />
-            <mxPoint x="340" y="350" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="460" y="280" />
-              <mxPoint x="590" y="280" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xZG8g1dK-9rmGVhBD8su-32" value="Theo dõi báo cáo,thống kế" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.984;exitY=0.387;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xZG8g1dK-9rmGVhBD8su-1" target="xZG8g1dK-9rmGVhBD8su-6">
+        <mxCell id="xZG8g1dK-9rmGVhBD8su-32" value="Xem danh sách đơn&amp;nbsp;" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.984;exitY=0.387;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xZG8g1dK-9rmGVhBD8su-1" target="xZG8g1dK-9rmGVhBD8su-6">
           <mxGeometry x="-0.3588" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="400" as="sourcePoint" />
             <mxPoint x="340" y="350" as="targetPoint" />
             <Array as="points">
               <mxPoint x="527" y="340" />
-              <mxPoint x="680" y="340" />
+              <mxPoint x="650" y="340" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
