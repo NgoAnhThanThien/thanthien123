@@ -269,7 +269,7 @@
           <mxGeometry x="120" y="760" width="560" height="120" as="geometry" />
         </mxCell>
         <mxCell id="0bEQjgoMfrxpZVptkMY_-34" value="System" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="780" width="120" height="80" as="geometry" />
+          <mxGeometry x="150" y="780" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0bEQjgoMfrxpZVptkMY_-35" value="Actor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="790" width="120" height="60" as="geometry" />
@@ -314,6 +314,12 @@
         </mxCell>
         <mxCell id="DkjyJq_lKBYllYSpV5Oh-10" value="Xác nhận đơn hàng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="780" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DkjyJq_lKBYllYSpV5Oh-12" value="Chuẩn bị sản phẩm" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="880" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DkjyJq_lKBYllYSpV5Oh-13" value="Cập nhật trạng thái hàng di chuyển" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="710" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
