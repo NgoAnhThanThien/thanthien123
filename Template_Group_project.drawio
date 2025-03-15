@@ -649,6 +649,9 @@
         <mxCell id="zKHTbeAGRfthUrk544Xl-5" value="NGÔ ANH THÂN THIỆN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zKHTbeAGRfthUrk544Xl-1">
           <mxGeometry x="760" y="720" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="fCNBNVIO5YOKqQH36lle-1" value="CHÀO MỪNG ĐẾN VỚI HIDE LAND CAFE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=31;fontStyle=1;fontFamily=Verdana;fontColor=#CC0066;" vertex="1" parent="zKHTbeAGRfthUrk544Xl-1">
+          <mxGeometry x="180" y="200" width="520" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="zKHTbeAGRfthUrk544Xl-6" value="Đăng nhập" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="340" y="280" width="210" height="30" as="geometry" />
         </mxCell>
