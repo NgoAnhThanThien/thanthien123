@@ -14,22 +14,19 @@
           <mxGeometry x="160" y="380" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S5Txtm_veZ8N1voSTqvE-5" value="&#xa;Add Customer&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="100" width="120" height="80" as="geometry" />
+          <mxGeometry x="330" y="100" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="S5Txtm_veZ8N1voSTqvE-6" value="&#xa;Record Order&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="200" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="S5Txtm_veZ8N1voSTqvE-7" value="&#xa;Generate Invoice&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="360" width="120" height="80" as="geometry" />
+          <mxGeometry x="540" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="S5Txtm_veZ8N1voSTqvE-8" value="&#xa;Revise Order&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="360" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="S5Txtm_veZ8N1voSTqvE-9" value="&#xa;Print/Email Invoice&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="460" width="120" height="80" as="geometry" />
+          <mxGeometry x="330" y="310" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="S5Txtm_veZ8N1voSTqvE-10" value="&#xa;View Orders&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="560" width="120" height="80" as="geometry" />
+          <mxGeometry x="330" y="510" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="S5Txtm_veZ8N1voSTqvE-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="S5Txtm_veZ8N1voSTqvE-4" target="S5Txtm_veZ8N1voSTqvE-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -73,12 +70,6 @@
             <mxPoint x="430" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S5Txtm_veZ8N1voSTqvE-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="S5Txtm_veZ8N1voSTqvE-3" target="S5Txtm_veZ8N1voSTqvE-9">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="410" as="sourcePoint" />
-            <mxPoint x="330" y="600" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="S5Txtm_veZ8N1voSTqvE-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="650" width="560" height="120" as="geometry" />
         </mxCell>
@@ -96,10 +87,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="S5Txtm_veZ8N1voSTqvE-23" value="Email Invoice&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="510" width="120" height="80" as="geometry" />
+          <mxGeometry x="410" y="420" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="S5Txtm_veZ8N1voSTqvE-24" value="&lt;br&gt;Print Invoice&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="440" width="120" height="80" as="geometry" />
+          <mxGeometry x="590" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="S5Txtm_veZ8N1voSTqvE-25" value="&amp;lt;&amp;lt;Extend&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.625;exitY=0.975;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="S5Txtm_veZ8N1voSTqvE-7" target="S5Txtm_veZ8N1voSTqvE-24">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="449.42050480045987" y="494.45408621862384" as="sourcePoint" />
+            <mxPoint x="550" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S5Txtm_veZ8N1voSTqvE-26" value="&amp;lt;&amp;lt;Extend&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="S5Txtm_veZ8N1voSTqvE-7" target="S5Txtm_veZ8N1voSTqvE-23">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="450" y="515.04" as="sourcePoint" />
+            <mxPoint x="560" y="420" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
