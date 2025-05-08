@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="AZkDb_PNq-8-Eg-TEzrB">
-    <mxGraphModel dx="696" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1783" dy="906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,10 +11,10 @@
           <mxGeometry x="200" y="230" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QDMSQeJ64wujipaBbdhu-3" value="Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="90" width="120" height="80" as="geometry" />
+          <mxGeometry x="200" y="60" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QDMSQeJ64wujipaBbdhu-4" value="Restaurant Staff" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="370" width="30" height="60" as="geometry" />
+          <mxGeometry x="110" y="320" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QDMSQeJ64wujipaBbdhu-6" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.967;exitY=0.338;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="QDMSQeJ64wujipaBbdhu-16">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -29,15 +29,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QDMSQeJ64wujipaBbdhu-8" value="Reserve Table" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="20" width="120" height="80" as="geometry" />
+          <mxGeometry x="400" y="60" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QDMSQeJ64wujipaBbdhu-9" value="View More" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="130" width="120" height="80" as="geometry" />
+        <mxCell id="QDMSQeJ64wujipaBbdhu-9" value="View Menu" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="140" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QDMSQeJ64wujipaBbdhu-10" value="Order Online" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="230" width="120" height="80" as="geometry" />
+          <mxGeometry x="410" y="230" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QDMSQeJ64wujipaBbdhu-13" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1.008;exitY=0.413;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0.913;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QDMSQeJ64wujipaBbdhu-3" target="QDMSQeJ64wujipaBbdhu-8">
+        <mxCell id="QDMSQeJ64wujipaBbdhu-13" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1.008;exitY=0.413;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QDMSQeJ64wujipaBbdhu-3" target="QDMSQeJ64wujipaBbdhu-8">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="366" y="407" as="sourcePoint" />
             <mxPoint x="490" y="380" as="targetPoint" />
@@ -65,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QDMSQeJ64wujipaBbdhu-18" value="Reserve Notifications" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="20" width="120" height="80" as="geometry" />
+          <mxGeometry x="610" y="120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QDMSQeJ64wujipaBbdhu-19" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QDMSQeJ64wujipaBbdhu-18" target="QDMSQeJ64wujipaBbdhu-8">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -73,8 +73,8 @@
             <mxPoint x="420" y="103" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QDMSQeJ64wujipaBbdhu-20" value="Request Home Delivery" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="240" width="120" height="80" as="geometry" />
+        <mxCell id="QDMSQeJ64wujipaBbdhu-20" value="Home Delivery" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="280" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QDMSQeJ64wujipaBbdhu-21" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QDMSQeJ64wujipaBbdhu-20" target="QDMSQeJ64wujipaBbdhu-10">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -92,7 +92,7 @@
           <mxGeometry x="450" y="440" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QDMSQeJ64wujipaBbdhu-24" value="Notify Customers about Reservation Confirmation or Changes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="440" width="160" height="80" as="geometry" />
+          <mxGeometry x="660" y="500" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QDMSQeJ64wujipaBbdhu-25" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.992;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QDMSQeJ64wujipaBbdhu-24" target="QDMSQeJ64wujipaBbdhu-23">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -101,12 +101,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QDMSQeJ64wujipaBbdhu-26" value="Managers" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="560" width="30" height="60" as="geometry" />
+          <mxGeometry x="110" y="490" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QDMSQeJ64wujipaBbdhu-27" value="Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="350" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QDMSQeJ64wujipaBbdhu-28" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="QDMSQeJ64wujipaBbdhu-27">
+        <mxCell id="QDMSQeJ64wujipaBbdhu-28" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="QDMSQeJ64wujipaBbdhu-27" source="QDMSQeJ64wujipaBbdhu-4">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="140" y="390" as="sourcePoint" />
             <mxPoint x="283" y="240" as="targetPoint" />
@@ -115,7 +115,7 @@
         <mxCell id="QDMSQeJ64wujipaBbdhu-29" value="Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="540" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QDMSQeJ64wujipaBbdhu-30" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="QDMSQeJ64wujipaBbdhu-29">
+        <mxCell id="QDMSQeJ64wujipaBbdhu-30" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="QDMSQeJ64wujipaBbdhu-29" source="QDMSQeJ64wujipaBbdhu-26">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="130" y="580" as="sourcePoint" />
             <mxPoint x="273" y="430" as="targetPoint" />
@@ -147,6 +147,22 @@
             <mxPoint x="332.5" y="673" as="sourcePoint" />
             <mxPoint x="547.5" y="910" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QDMSQeJ64wujipaBbdhu-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="840" width="560" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="QDMSQeJ64wujipaBbdhu-38" value="Usecase" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="860" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QDMSQeJ64wujipaBbdhu-39" value="Interation" style="endArrow=classic;html=1;rounded=0;entryX=0.643;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="0.0142" y="5" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.96" y="904.98" as="sourcePoint" />
+            <mxPoint x="500.03999999999996" y="895.02" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QDMSQeJ64wujipaBbdhu-40" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="860" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
