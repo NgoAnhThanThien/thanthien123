@@ -247,8 +247,8 @@
             <mxPoint x="363" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G4u0P_oPjCdLFYhgPJJt-53" value="&lt;br&gt;&lt;span style=&quot;font-size: 13pt; line-height: 115%;&quot;&gt;Delivery&lt;br&gt;Staff&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="1135" y="860" width="30" height="60" as="geometry" />
+        <mxCell id="G4u0P_oPjCdLFYhgPJJt-53" value="&lt;div&gt;Store Staff&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="900" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G4u0P_oPjCdLFYhgPJJt-54" value="&#xa;Handle in-store payments&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1090" y="655" width="120" height="80" as="geometry" />
@@ -269,6 +269,10 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="190" y="130" as="sourcePoint" />
             <mxPoint x="525" y="435" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1000" y="930" />
+              <mxPoint x="1000" y="840" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="G4u0P_oPjCdLFYhgPJJt-61" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="G4u0P_oPjCdLFYhgPJJt-53" target="G4u0P_oPjCdLFYhgPJJt-54">
@@ -290,6 +294,35 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1113" y="680" as="sourcePoint" />
             <mxPoint x="1010" y="625" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G4u0P_oPjCdLFYhgPJJt-65" value="&#xa;Delivery Staff&#xa;&#xa;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="510" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G4u0P_oPjCdLFYhgPJJt-66" value="&#xa;Deliver goods to customers&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="G4u0P_oPjCdLFYhgPJJt-67" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="G4u0P_oPjCdLFYhgPJJt-66">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1200" y="301" as="sourcePoint" />
+            <mxPoint x="968" y="585" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G4u0P_oPjCdLFYhgPJJt-68" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.006;entryY=0.378;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="G4u0P_oPjCdLFYhgPJJt-65" target="G4u0P_oPjCdLFYhgPJJt-66">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1270" y="400" as="sourcePoint" />
+            <mxPoint x="1272" y="298" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G4u0P_oPjCdLFYhgPJJt-69" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.61;entryY=0.972;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="G4u0P_oPjCdLFYhgPJJt-20">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1340" y="540" as="sourcePoint" />
+            <mxPoint x="1251" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1340" y="1000" />
+              <mxPoint x="940" y="1000" />
+              <mxPoint x="940" y="840" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
