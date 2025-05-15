@@ -345,7 +345,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EcpdATP70ZE7TDXEPnlF" name="Page-3">
-    <mxGraphModel dx="1426" dy="1877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2037" dy="2210" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -490,13 +490,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="j3zOVIayJLxJ8toGezHc-31" value="&lt;div&gt;Process Reservation &amp;amp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;Send Confirmation Notification&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="330" y="730" width="130" height="60" as="geometry" />
+          <mxGeometry x="330" y="690" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j3zOVIayJLxJ8toGezHc-32" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=1.008;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="j3zOVIayJLxJ8toGezHc-31">
+        <mxCell id="j3zOVIayJLxJ8toGezHc-32" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=1.008;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4sospy_IndplFNVTScRS-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160" y="800" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="160" y="751" />
+              <mxPoint x="160" y="740" />
             </Array>
             <mxPoint x="249" y="751" as="sourcePoint" />
           </mxGeometry>
@@ -539,15 +539,29 @@
         <mxCell id="j3zOVIayJLxJ8toGezHc-40" value="payment successful" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="700" y="750" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j3zOVIayJLxJ8toGezHc-41" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="j3zOVIayJLxJ8toGezHc-40">
+        <mxCell id="j3zOVIayJLxJ8toGezHc-41" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="j3zOVIayJLxJ8toGezHc-40" target="j3zOVIayJLxJ8toGezHc-31">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="460" y="754" as="targetPoint" />
             <Array as="points">
               <mxPoint x="700" y="755" />
               <mxPoint x="675" y="755" />
-              <mxPoint x="675" y="754" />
+              <mxPoint x="460" y="754" />
             </Array>
             <mxPoint x="675" y="810" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4sospy_IndplFNVTScRS-1" value="Customer proceeds to checkout" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="100" y="680" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4sospy_IndplFNVTScRS-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="j3zOVIayJLxJ8toGezHc-31" target="4sospy_IndplFNVTScRS-1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="470" y="730" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="690" />
+              <mxPoint x="390" y="670" />
+              <mxPoint x="165" y="670" />
+            </Array>
+            <mxPoint x="710" y="775" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
